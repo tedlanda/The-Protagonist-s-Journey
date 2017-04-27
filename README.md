@@ -1,6 +1,6 @@
-README.md
+## README.md
 
-Ted Landa
+__Ted Landa__
 
 It took me roughly a week of part time work on this project since concentrations/focus paths opened up in my classroom.
 
